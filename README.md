@@ -25,4 +25,36 @@ Ideal para criadores de conteúdo, editores de vídeo, professores, podcasters e
 - 🛠️ **Otimizado e testado em Python 3.12**  
   Compatível com Windows, Linux e macOS.
 
----
+Legendas Automáticas
+
+Gerador de legendas em português utilizando Python 3.12, OpenAI Whisper, MoviePy e pysrt.
+Ideal para criadores de conteúdo, editores de vídeo e profissionais que precisam gerar legendas rápidas, precisas e sincronizadas.
+
+📌 Sobre o Projeto
+
+Este projeto transcreve automaticamente o áudio de vídeos e gera um arquivo .srt sincronizado com alta precisão.
+A aplicação possui interface gráfica (Tkinter) e exibe o progresso da transcrição em tempo real.
+
+Funciona 100% offline utilizando os modelos do Whisper.
+
+🧩 Recursos Principais
+
+Extração automática do áudio do vídeo
+
+Transcrição em português utilizando Whisper
+
+Geração de legendas sincronizadas em formato SRT
+
+Interface simples em Tkinter
+
+Barra de progresso
+
+Acompanhamento de texto (transcrição ao vivo)
+
+Compatível com Python 3.12
+
+🖥️ Compatibilidade
+Sistema	Suporte
+Windows	Total
+Linux	Parcial (depende de FFmpeg)
+macOS	Parcial (performances variam)
